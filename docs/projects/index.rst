@@ -18,7 +18,6 @@ Contents
 .. toctree::
    :maxdepth: 1
 
-   AD-GMSL2ETH-SL <ad_gmsl2eth_sl/index>
    AD-QUADMXFE1-EBZ <ad_quadmxfe1_ebz/index>
    AD353XR <ad353xr/index>
    AD35XXR-EVB <ad35xxr_evb/index>
@@ -33,6 +32,7 @@ Contents
    AD469X-EVB <ad469x_evb/index>
    AD485X-FMCZ <ad485x_fmcz/index>
    AD4880-FMC-EVB <ad4880_fmc_evb/index>
+   AD5529R-ARDZ <ad5529r_ardz/index>
    AD5758-SDZ <ad5758_sdz/index>
    AD5766-SDZ <ad5766_sdz/index>
    AD57XX-ARDZ <ad57xx_ardz/index>
@@ -70,6 +70,7 @@ Contents
    ADAQ8092-FMC <adaq8092_fmc/index>
    ADMX100X-EVB <admx100x_evb/index>
    ADMX6001-EBZ <admx6001_ebz/index>
+   ADRD8012-01Z <adrd8012_01z/index>
    ADRV9001 <adrv9001/index>
    ADRV9001-DUAL <adrv9001_dual/index>
    ADRV9009 <adrv9009/index>
@@ -115,6 +116,8 @@ Obsolete projects
    AD-FMCLIDAR1-EBZ (OBSOLETE) <ad_fmclidar1_ebz/index>
    FMCADC2 (OBSOLETE) <fmcadc2/index>
    FMCADC5 (OBSOLETE) <fmcadc5/index>
+   FMCOMMS1 (OBSOLETE) <fmcomms1/index>
+   FMCOMMS6 (OBSOLETE) <fmcomms6/index>
    FMCJESDADC1 (OBSOLETE) <fmcjesdadc1/index>
    IMAGEON (OBSOLETE) <imageon/index>
 
@@ -136,6 +139,10 @@ Linux images (the already built files):
      - :git-hdl:`hdl_2021_r2 <hdl_2021_r2:projects/ad9739a_fmc>`
    * - ad_fmclidar1_ebz
      - :git-hdl:`hdl_2019_r1 <hdl_2019_r1:projects/ad_fmclidar1_ebz>`
+   * - fmcomms1
+     - :git-hdl:`hdl_2015_r2 <hdl_2015_r2:projects/fmcomms1>`
+   * - fmcomms6
+     - :git-hdl:`hdl_2016_r1 <hdl_2016_r1:projects/fmcomms6>`
    * - fmcadc2
      - :git-hdl:`hdl_2021_r2 <hdl_2021_r2:projects/fmcadc2>`
    * - fmcadc5
